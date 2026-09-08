@@ -1,5 +1,5 @@
 # Custom JezzBall in C++ #
-SENG475: Advanced Programming Techniques for Robust and Efficient Computing
+UVIC SENG 475: Advanced Programming Techniques for Robust and Efficient Computing
 * Cameron Fietz
 
 ## PRESENTATION
